@@ -475,10 +475,10 @@ footer #map {
 	#slika{
 
 
-		background:url('photos/brod1.jpg')-530px ;
+		background:url('photos/brod1.jpg')-1030px ;
 		background-repeat: no-repeat;
 		background-size: cover;
-		background-attachment: fixed;
+		
 
 	
 
@@ -486,8 +486,8 @@ footer #map {
 
 	#boxes{
     	
-    	background:url('photos/brod3.jpg');
-    	background-attachment: fixed;
+    	background:url('photos/brod3.jpg') -700px;
+    	
 		background-repeat: no-repeat;
 		background-size: cover;
     }
